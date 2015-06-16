@@ -1,0 +1,45 @@
+/* theme colors 
+	blue: #81c2ff
+	green: #12b681
+	pink: #ff7d6e
+*/
+
+
+/* Body */
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-image: url("img/background.png");
+}
+
+/* Navigation */
+
+#logo {
+	height: 100%;
+}
+
+.nav-style {
+	background-color: white;
+	border: none;
+	border-radius: 0;
+	box-shadow: 0px 0px 2px #A6A6A6;
+}
+
+.nav-style a {
+	color: #ff7d6e;
+}
+
+.nav-style button {
+	background-color: #ff7d6e;
+}
+
+.icon-bar {
+	background-color: white;
+}
+
+/* footer */
+
+.footer-style {
+	background-color: #F7F7F7;
+	padding:10px;
+}
+
