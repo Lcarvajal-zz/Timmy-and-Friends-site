@@ -55,6 +55,12 @@ body {
 /* Responsive Images */
 
 .img-center {margin:0 auto;}
+.img-rounded {
+	border: solid;
+	border-width: 10px;
+	border-color: white;
+	border-radius: 0px;
+}
 
 /* footer */
 
